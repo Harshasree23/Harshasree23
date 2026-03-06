@@ -10,7 +10,7 @@ Munimadugu_Sree_Harsha > whoami
 Full-stack dev | Amateur AI/ML enthusiast | IoT tinkerer
 <br><br>
 
-<a href="https://your-portfolio-website.com" target="_blank">
+<a href="https://msreeharsha.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
